@@ -1,8 +1,8 @@
-host: rakyll.pizza
+host: go.transparencylog.net
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
+  /tl:
+    repo: https://github.com/transparencylog/tl
 
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /github-releases-asset-transparency-verify-action:
+    repo: https://github.com/transparencylog/github-releases-asset-transparency-verify-action
